@@ -1,0 +1,25 @@
+.shop {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    column-gap: 12px;
+    row-gap: 20px;
+}
+
+.shop__item {
+    max-width: 180px;
+    text-align: center;
+    color: red;
+
+    background-color: azure;
+    padding: 34px 43px;
+    border-radius: 10px;
+}
+
+.shop__item img {
+    max-width: 180px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: rgb(84, 78, 78);
+}

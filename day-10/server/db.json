@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "title": "papapa",
+      "author": "slsfkf",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "Aassdssd",
+      "author": "asdssas"
+    },
+    {
+      "title": "ssss",
+      "author": "sss",
+      "id": 2
+    },
+    {
+      "title": "ssss",
+      "author": "sss",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "todo": [
+        {
+            "completed": false,
+            "text": "ss",
+            "id": 7
+        }
+    ],
+
+    "users": [
+        {
+            "id": 1,
+            "userName": "Azizhon",
+            "userPassword": "12345Az",
+
+            "todos": [
+                {
+                    "id": 1,
+                    "text": "ss",
+                    "completed": false
+                }
+            ]
+        }
+    ]
+}
